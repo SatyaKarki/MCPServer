@@ -1,4 +1,4 @@
-# MyFirstMCPDemo
+# MCP Server and Client Development in .NET
 
 A comprehensive learning project demonstrating the **Model Context Protocol (MCP)** implementation with .NET 10. This solution includes an MCP Server with real-world tools, an MCP Client library, and a Host application for testing.
 
